@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m Lia Moua
 - 👀 I'm currently a full-stack web development student at Bloom Tech (formly known as Lambda School)
-- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node, Express, PostgreSQL & Python
-- 🏫 I'm also a currrent student at Arizona State University majoring in Sotware Engineer //Go Sun Devils! 
+- 🌱 JavaScript, HTML, CSS, React, Node, Express, PostgreSQL 
+- 🎯 I want to learn Python and Typescript
+- 🏫 Crazy fact: I'm also a currrent student at Arizona State University majoring in Sotware Engineer //Go Sun Devils! 
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
 - ✍️ I love to learn new things to level up my skills and improve my coding skills
 - 📫 How to reach me: moua0061@outlook.com * https://www.linkedin.com/in/lia-moua/ * Twitter @batmanisredd
