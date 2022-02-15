@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Lia Moua
-- 👀 I’m interested in videography, traveling, being in the ocean, sunset & sunrise lover, beach bum, napper and build things so I can enjoy my fruits of labor! 
-If you love food and love local activities, I am your person to share that with. I love diversities and the communities. 
-- 🌱 I’m currently learning JavaScript, HTML, CSS and React. I'm currently a full-stack web development student at Lambda School.
+### 👋 Hi, I’m Lia Moua
+- 👀 I'm currently a full-stack web development student at Bloom Tech (formly known as Lambda School)
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node, Express, PostgreSQL & Python
+- 🏫 I'm also a currrent student at Arizona State University majoring in Sotware Engineer //Go Sun Devils! 
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
-- 📫 How to reach me ... moua0061@outlook.com * https://www.linkedin.com/in/lia-moua/ * Twitter @batmanisredd
+- ✍️ I love to learn new things to level up my skills and improve my coding skills
+- 📫 How to reach me: moua0061@outlook.com * https://www.linkedin.com/in/lia-moua/ * Twitter @batmanisredd
 
 <!---
 moua0061/moua0061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
