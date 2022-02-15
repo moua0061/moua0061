@@ -2,7 +2,7 @@
 - 👀 full-stack web developer
 - 🌱 JavaScript, HTML, CSS, React, Node, Express, PostgreSQL 
 - 🎯 I want to learn Python and Typescript
-- ❗ Crazy fact: I played flag football for 8 years 🏈 #Showrens
+- ❗ Crazy fact: I played flag football for 8 years 🏈 #Sirens #Showrens
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
 - ✍️ I love to learn new things to level up my skills and improve my coding skills
 - 📫 How to reach me: moua0061@outlook.com * https://www.linkedin.com/in/lia-moua/ * Twitter @batmanisredd
