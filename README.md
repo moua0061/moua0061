@@ -3,7 +3,7 @@
 If you love food and love local activities, I am your person to share that with. I love diversities and the communities. 
 - 🌱 I’m currently learning JavaScript, HTML, CSS and React. I'm currently a full-stack web development student at Lambda School.
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
-- 📫 How to reach me ... moua0061@outlook.com * https://www.linkedin.com/in/lia-moua/ * Instagram @destinations4redd * Twitter @batmanisredd
+- 📫 How to reach me ... moua0061@outlook.com * https://www.linkedin.com/in/lia-moua/ * Twitter @batmanisredd
 
 <!---
 moua0061/moua0061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
