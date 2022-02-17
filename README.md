@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Lia Moua
-- 👀 full-stack web developer
-- 🌱 JavaScript, HTML, CSS, React, Node, Express, PostgreSQL 
-- 🎯 Python and Typescript on my list to learn
+- 👀 Full-stack web developer
+- 🌱 Javascript, HTML, CSS, React, Node, Express, PostgreSQL, SQLite
+- 🎯 Python and Typescript are on my list to learn
 - ❗ Crazy fact: I played flag football for 8 years 🏈 with 3 different positions, 4 if you include Team Captain #Sirens #Showrens #42
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
 - ✍️ I love to learn new things to level up my skills to improve my coding skills
