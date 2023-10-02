@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Lia Moua
 - 👀 Full-stack software engineer
-- 🌱 Javascript, HTML, CSS, React, Node, Express, PostgreSQL, SQLite, Java, C#, ASP.NET, .NET
-- 🎯 Python and Typescript are on my list to learn
+- 🌱 Javascript, HTML, CSS, React, Node, Express, MS SQL Server Management Studio, SQLite, Java, C#, ASP.NET, .NET
+- 🎯 Currently learning: Angular & Typescript 
 - ❗ Crazy fact: I played flag football for 8 years 🏈 with 3 different positions, 4 if you include Team Captain
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
 - ✍️ I love to learn new things to level up my coding skills
