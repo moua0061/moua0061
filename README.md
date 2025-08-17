@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Lia Moua
 - 👀 Full-stack software engineer
-- 🌱 Javascript, HTML, CSS, JavaScript, TypeScript, React, Anuglar, Node, Express, NestJs, Java, C#, ASP.NET, .NET
+- 🌱 Javascript, HTML, CSS, JavaScript, TypeScript, React, Anuglar, Node, Express, NestJs, Java, C#, ASP.NET, .NET, Blazor
 - 🎯 Currently learning: Python & SpringBoot 
 - ❗ Crazy fact: I played flag football for 8 years 🏈 with 3 different positions, 4 if you include Team Captain
 - 💞️ I’m looking to collaborate on ... anything I can use my brain for!
